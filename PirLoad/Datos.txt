@@ -1,0 +1,14 @@
+Load Algorithm : waiting time (ms) %CPU
+
+Round Robin : 261,2739323 ms 21.4%CPU
+Round Robin : 307,3286765 ms 13.2%CPU
+Round Robin : 272,7364536 ms 25.4%CPU
+Round Robin : 280,3463838 ms 22.8%CPU
+Round Robin : 243,5564748 ms 25.2%CPU
+Round Robin : 289,8462920 ms 11.1%CPU
+Round Robin : 288,5673893 ms 32.2%CPU
+Round Robin : 275,4655262 ms 23.2%CPU
+Round Robin : 270,3284658 ms 21.6%CPU
+
+
+Shuffle : 763,2571429 ms 
